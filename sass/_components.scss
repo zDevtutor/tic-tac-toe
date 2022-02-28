@@ -86,6 +86,10 @@
 	border-radius: 1.5rem;
 	transition: all 0.4s ease;
 
+	@include respond(small) {
+		font-size: 1.6rem;
+	}
+
 	&:hover {
 		cursor: pointer;
 	}
