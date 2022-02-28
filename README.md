@@ -107,3 +107,4 @@ The site was deployed to Vercel. The steps to deploy are as follows:
 
 - Frontend mentor for providing the project design mockups.
 - CodeInstitute for provding the README template.
+- The thinking behaviour of CPU was from [@BenjaDotMin](https://github.com/BenjaDotMin)
