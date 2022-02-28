@@ -79,15 +79,24 @@ The game is fully responsive and was set with some animations and a little twist
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### Testing
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-### Validator Testing
+- HTML
+  No errors were returned when passing through the official W3C validator HTML Validation just one warning related to not using headings inside a section tag which is not necessary in the current case since there is no headings to be displayed over the gallary section.
+  ![](./designs/html-validation.png)
+- CSS
+  No errors were found when passing through the official (Jigsaw) validator CSS Validation
+  ![](./designs/css-validation.png)
+- Js
+  No errors were found using jshint validator
+  ![](./designs/js-validation.png)
+- Page speed
+  The webpage achieved a score of 99 for desktop and 90 for mobile
+  ![](./designs/page-speed-desktop.png)
+  ![](./designs/page-speed-mobile.png)
+- Website accessablity
+  The webpage has a high accessabliity score of 94
+  ![](./designs/accessability-score.png)
 
 ### Deployment
 
